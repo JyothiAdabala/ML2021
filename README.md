@@ -6,4 +6,4 @@
 ### Demo Vedio :
 https://youtu.be/iJUHJ_hJADM
 
-![BlockDiagram image](https://raw.githubusercontent.com/JyothiAdabala/ML2021/main/block-diagram.jpg)
+![BlockDiagram](https://raw.githubusercontent.com/JyothiAdabala/ML2021/main/block-diagram.jpg)
