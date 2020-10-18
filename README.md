@@ -5,3 +5,5 @@
 
 ### Demo Vedio :
 https://youtu.be/iJUHJ_hJADM
+
+![Block Diagram](https://raw.githubusercontent.com/JyothiAdabala/ML2021/main/block-diagram.jpg)
