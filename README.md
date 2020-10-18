@@ -7,8 +7,8 @@
   - This Chatbot provides weather report for the user specified city.
   - It also performs calculations by evaluating the expressions given by the user.
   
-#### Description about the Chatbot : 
-##### Firstly, the chatbot introduces itself and asks for the name of the user and then greets the user.Secondly, it provides list of options to the user and asks for the choice of the user.If the user selects the calculation option then it takes the expression from the user to evaluate and then it produces the final result of the expression.Otherwise, if user selects weather report option then it asks for cityname from the user and gives the weather report for the user specified city.If the user selects the last option then the bot gets ended.
+### Description about the Chatbot : 
+#### Firstly, the chatbot introduces itself and asks for the name of the user and then greets the user.Secondly, it provides list of options to the user and asks for the choice of the user.If the user selects the calculation option then it takes the expression from the user to evaluate and then it produces the final result of the expression.Otherwise, if user selects weather report option then it asks for cityname from the user and gives the weather report for the user specified city.If the user selects the last option then the bot gets ended.
 
 ### Demo Vedio :
 https://youtu.be/iJUHJ_hJADM
